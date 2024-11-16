@@ -1,5 +1,7 @@
-select count(*) 
-from seller 
-where userid in (select userid 
-from user 
-where rating>1000)
+SELECT COUNT(*)
+FROM seller
+WHERE userid IN (
+    SELECT userid
+    FROM user
+    WHERE rating > 1000
+);
