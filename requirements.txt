@@ -14,6 +14,7 @@ cached-property @ file:///home/conda/feedstock_root/build_artifacts/cached_prope
 certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1725278078093/work/certifi
 cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1725560582645/work
 charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1728479282467/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
 comm @ file:///home/conda/feedstock_root/build_artifacts/comm_1710320294760/work
 debugpy @ file:///Users/runner/miniforge3/conda-bld/debugpy_1731044929142/work
 decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1641555617451/work
@@ -32,6 +33,7 @@ hyperframe @ file:///home/conda/feedstock_root/build_artifacts/hyperframe_161911
 idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1726459485162/work
 importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1726082825846/work
 importlib_resources @ file:///home/conda/feedstock_root/build_artifacts/importlib_resources_1725921340658/work
+iniconfig @ file:///home/conda/feedstock_root/build_artifacts/iniconfig_1673103042956/work
 ipykernel @ file:///Users/runner/miniforge3/conda-bld/ipykernel_1719845458456/work
 ipython @ file:///home/conda/feedstock_root/build_artifacts/ipython_1729866374957/work
 ipython_genutils @ file:///home/conda/feedstock_root/build_artifacts/ipython_genutils_1716278396992/work
@@ -75,6 +77,7 @@ pexpect @ file:///home/conda/feedstock_root/build_artifacts/pexpect_170611312530
 pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
 pkgutil_resolve_name @ file:///home/conda/feedstock_root/build_artifacts/pkgutil-resolve-name_1694617248815/work
 platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_1726613481435/work
+pluggy @ file:///home/conda/feedstock_root/build_artifacts/pluggy_1713667077545/work
 prometheus_client @ file:///home/conda/feedstock_root/build_artifacts/prometheus_client_1726901976720/work
 prompt_toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1727341649933/work
 psutil @ file:///Users/runner/miniforge3/conda-bld/psutil_1729847140496/work
@@ -85,6 +88,7 @@ Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1714846767
 pyobjc-core @ file:///Users/runner/miniforge3/conda-bld/pyobjc-core_1725739340806/work
 pyobjc-framework-Cocoa @ file:///Users/runner/miniforge3/conda-bld/pyobjc-framework-cocoa_1725875066529/work
 PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1661604839144/work
+pytest @ file:///home/conda/feedstock_root/build_artifacts/pytest_1725977232342/work
 python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1709299778482/work
 python-json-logger @ file:///home/conda/feedstock_root/build_artifacts/python-json-logger_1677079630776/work
 pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1706886791323/work
